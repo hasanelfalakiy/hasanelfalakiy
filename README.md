@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on Nahdlatul Ulama Falakiyah Institute Ngawi
-[![@andihasan_as's Holopin board](https://holopin.me/andihasan_as)](https://holopin.io/@andihasan_as)
+[![An image of @andihasan_as's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andihasan_as)](https://holopin.io/@andihasan_as)
