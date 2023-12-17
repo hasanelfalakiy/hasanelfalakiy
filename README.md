@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Nahdlatul Ulama Falakiyah Institute Ngawi
 [![An image of @andihasan_as's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andihasan_as)](https://holopin.io/@andihasan_as)
+
+[![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=andihasan97&show_icons=true&theme=tokyonight)](https://github.com/andihasan97/andihasan97)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andihasan97&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)](https://github.com/andihasan97/andihasan97)
