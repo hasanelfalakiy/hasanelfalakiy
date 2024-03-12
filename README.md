@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanelfalakiy&show_icons=true&theme=tokyonight)](https://github.com/hasanelfalakiy/andihasan97)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanelfalakiy&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)](https://github.com/andihasanelfalakiy/andihasan97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanelfalakiy&size_weight=0.5&count_weight=0.5&show_icons=true&theme=tokyonight)](https://github.com/hasanelfalakiy/andihasan97)
